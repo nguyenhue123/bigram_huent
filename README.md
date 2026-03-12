@@ -17,17 +17,6 @@ Python 3.8+
 
 Không cần thư viện ngoài (chỉ dùng thư viện chuẩn của Python).
 
----
-
-## Chuẩn bị dữ liệu
-
-Tải file corpus tại link sau:
-https://drive.google.com/file/d/1mb1PT-NCUZHmnNSwmIiGhP2pX5M9NqcL/view?usp=sharing
-
-Sau khi tải về, đặt file:
-
-corpus-title.txt vào cùng thư mục project
-
 ## Chạy chương trình
 
 Chạy lệnh:
