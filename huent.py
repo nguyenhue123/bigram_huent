@@ -178,7 +178,8 @@ def load_sentences_from_txt(path: str):
 
 
 def merge_txt_files():
-    folder = r"D:\hoc-ch\xu-ly-ngon-ngu-tu-nhien\Code\New_bigram\huent\bigram_huent\Doi song"
+    folder = r".\Doi song"
+
     output_file = os.path.join(folder, "doi_song.txt")
 
     # 1. Xóa file cũ
@@ -218,7 +219,7 @@ def main():
     # chạy
     merge_txt_files()
 
-    corpus_txt = r"D:\hoc-ch\xu-ly-ngon-ngu-tu-nhien\Code\New_bigram\huent\Doi song\doi_song.txt"
+    corpus_txt = r".\Doi song\doi_song.txt"
 
 
 
